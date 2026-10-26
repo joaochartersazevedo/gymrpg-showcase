@@ -1,6 +1,6 @@
-# GymRPG: a solo-built cross-platform fitness RPG
+# GYM RPG: a solo-built cross-platform fitness RPG
 
-![GymRPG](images/banner.jpg)
+![GYM RPG](images/banner.jpg)
 
 > Showcase repo. The source code is private. This page documents the product, architecture and engineering decisions.
 
