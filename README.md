@@ -65,4 +65,4 @@ Flutter, Dart, Riverpod, Supabase (Postgres, Auth, Edge Functions), Deno/TypeScr
 
 João Azevedo. MSc in Computer Science and Engineering, Instituto Superior Técnico. Based in Portugal, open to remote roles in EU/UK time zones.
 
-[LinkedIn](https://www.linkedin.com/in/joao-charters-azevedo/) | joaochartersazevedo@gmail.com
+[Portfolio](https://joaochartersazevedo.github.io) | [LinkedIn](https://www.linkedin.com/in/joao-charters-azevedo/) | joaochartersazevedo@gmail.com
